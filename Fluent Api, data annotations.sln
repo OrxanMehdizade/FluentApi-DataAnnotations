@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluent Api, data annotations", "Fluent Api, data annotations\Fluent Api, data annotations.csproj", "{CFB2896B-9582-461E-B0D7-EC7EDADCFED9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data annotations", "data annotations\data annotations.csproj", "{6545F715-80B7-4E14-A02C-3EFA19C7CDC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "data annotations", "data annotations\data annotations.csproj", "{6545F715-80B7-4E14-A02C-3EFA19C7CDC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CFB2896B-9582-461E-B0D7-EC7EDADCFED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CFB2896B-9582-461E-B0D7-EC7EDADCFED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CFB2896B-9582-461E-B0D7-EC7EDADCFED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CFB2896B-9582-461E-B0D7-EC7EDADCFED9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6545F715-80B7-4E14-A02C-3EFA19C7CDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6545F715-80B7-4E14-A02C-3EFA19C7CDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6545F715-80B7-4E14-A02C-3EFA19C7CDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
